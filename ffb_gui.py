@@ -505,7 +505,7 @@ class MainWindow(QMainWindow):
 
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("vJoy FFB & ODrive Controller")
+        self.setWindowTitle("OpenGrip FFB")
         # no aggressive minimum; you can resize freely
         # self.setMinimumWidth(660)  # removed
 
