@@ -52,7 +52,7 @@ pip install PySide6 odrive
 
 Install and configure **vJoy** from its official installer, then create a vJoy device (default ID: 1).
 
-> ⚠️ **Safety**: Start with conservative current/torque limits. Secure the wheel, keep fingers clear, and have an e‑stop.
+> ⚠️ **Safety**: Start with conservative current/torque limits. Secure the wheel, keep fingers clear.
 
 ---
 
