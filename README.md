@@ -1,4 +1,5 @@
 # OpenGrip‑FFB
+<img src="docs/screenshot.png" width="600"/>
 
 > vJoy Force‑Feedback → ODrive controller + sleek PySide6 GUI for DIY direct‑drive wheels (and future flight‑sticks)
 
